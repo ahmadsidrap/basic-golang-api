@@ -1,0 +1,6 @@
+# Environment var
+.env
+
+# Folder bin
+bin/**
+!bin/.gitkeep
